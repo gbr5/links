@@ -28,7 +28,7 @@ To learn more about the technologies used in this project, check out the followi
 - [TailwindCSS Documentation](https://tailwindcss.com/docs) - learn about the utility-first CSS framework used in this project.
 - [React Hook Form Documentation](https://react-hook-form.com/get-started) - explore the form library used for handling user inputs.
 
-You can check out [the project GitHub repository](https://github.com/yourusername/personal-landing-page-platform) - your feedback and contributions are welcome!
+You can check out [the project GitHub repository](https://github.com/gbr5/links) - your feedback and contributions are welcome!
 
 ## Customizing Your Landing Page
 
@@ -57,14 +57,3 @@ We welcome contributions to the Customizable Personal Landing Page Platform! Her
 6. Open a Pull Request
 
 Please make sure to update tests as appropriate and adhere to the code style guidelines.
-
-## License
-
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more information.
-```
-
-This README provides a comprehensive overview of your Customizable Personal Landing Page Platform, following the style of the Next.js default README while incorporating the specific features and instructions for your project. It includes sections on getting started, features, learning resources, customization instructions, deployment, contributing guidelines, and licensing information.
-
-Remember to replace "yourusername" in the GitHub repository link with your actual GitHub username or organization name. Also, make sure to create and include a LICENSE file in your project repository if you haven't already.
-
-As your project evolves, you may want to update this README to include more detailed information about specific features, API documentation if applicable, or troubleshooting tips for common issues users might encounter.
