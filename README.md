@@ -1,5 +1,7 @@
 # Customizable Personal Landing Page Platform
 
+![links logo](./link_logo.png)
+
 Welcome to our open-source Customizable Personal Landing Page Platform!
 
 This project allows users to create personalized landing pages with customizable layouts, link sharing, contact form, and email subscription options.
